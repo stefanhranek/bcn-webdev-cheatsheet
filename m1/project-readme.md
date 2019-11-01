@@ -32,7 +32,7 @@ Task definition in order of priority
 
 
 ### Trello
-[Link url](https://trello.com)
+[Link url](https://trello.com/b/JPkqm7jW/ironhack-project-1-platformer)
 
 
 ### Git
